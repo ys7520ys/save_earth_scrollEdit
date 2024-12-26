@@ -1,0 +1,7 @@
+@media (max-width: 1300px) {
+  .firstSection{
+    height: 100vh;
+    border: solid 1px red;
+  }
+  
+}
